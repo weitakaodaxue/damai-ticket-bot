@@ -1,0 +1,22 @@
+[17:02:26.857] INFO  activity=cn.damai/.trade.newtradeorder.ui.projectdetail.ui.activity.ProjectDetailActivity 屏幕=亮
+[17:02:30.971] OK    Appium 会话 06224939
+[17:02:31.378] OK    屏幕: 亮着
+[17:02:31.514] INFO  前台: cn.damai/.trade.newtradeorder.ui.projectdetail.ui.activity.ProjectDetailActivity
+[17:02:31.514] OK    已在详情页
+[17:02:31.683] OK    充电保持亮屏: 15
+[17:02:31.786] OK    电量: level: 98
+[17:02:31.786] OK    ffmpeg: C:\Users\18179\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe
+[17:02:31.786] OK    Appium 会话: 就绪
+[17:02:32.372] OK    截图条带: 864000 字节
+[17:16:50.282] OK    到达 17:16:50，开始监听
+[17:16:50.372] OK    视频流已启动（crop y=2280 h=120）
+[17:16:51.641] OK    基线已建立（第 1 帧）
+[17:16:52.947] INFO  第 120 帧：无变化（3s, 45fps）
+[17:16:54.937] INFO  第 240 帧：无变化（5s, 52fps）
+[17:16:56.926] INFO  第 360 帧：无变化（7s, 54fps）
+[17:16:58.920] INFO  第 480 帧：无变化（9s, 56fps）
+[17:17:00.304] HIT   第 564 帧检测到变化 25%（10.02s）
+[17:17:00.577] OK    已点击购买按钮 (680, 2336)
+[17:17:01.227] INFO  当前 activity=cn.damai/.ultron.view.activity.DmOrderActivity
+[17:17:01.227] FAIL  没进到选票页，停手
+[17:17:01.730] STOP  选票页处理失败，请手动接管
